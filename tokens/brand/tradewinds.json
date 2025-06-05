@@ -1,0 +1,88 @@
+{
+  "color": {
+    "brand-utility": {
+      "50": {
+        "$type": "color",
+        "$value": "#E8EFF7"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#D7E4F6"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#B4CBEB"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#86A5D4"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#5376AB"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#335A94"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#1B427D"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#002C6D"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#001739"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#000B1C"
+      }
+    },
+    "header": {
+      "top": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.50}"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.800}"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "{color.brand-utility.50}"
+        }
+      }
+    },
+    "investor": {
+      "positive-fg": {
+        "$type": "color",
+        "$value": "#5BDFC6"
+      },
+      "negative-fg": {
+        "$type": "color",
+        "$value": "#FF4144"
+      },
+      "bg": {
+        "$type": "color",
+        "$value": "#112645"
+      },
+      "positive-bg": {
+        "$type": "color",
+        "$value": "#5BDFC6"
+      },
+      "fg": {
+        "$type": "color",
+        "$value": "#fff"
+      },
+      "negative-bg": {
+        "$type": "color",
+        "$value": "#FF4144"
+      }
+    }
+  }
+}

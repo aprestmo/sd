@@ -1,0 +1,111 @@
+{
+  "color": {
+    "brand-utility": {
+      "0": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#EDF5F0"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#D0E9DA"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#AAC8BA"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#6E9783"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#4F7663"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#34634A"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#214E3D"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#14412F"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#0A3221"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#021D0F"
+      }
+    },
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "#14412F"
+      },
+      "primary-fg": {
+        "$type": "color",
+        "$value": "#FFF"
+      },
+      "highlight": {
+        "$type": "color",
+        "$value": "#E5F2EE"
+      },
+      "highlight-fg": {
+        "$type": "color",
+        "$value": "#001714"
+      }
+    },
+    "header": {
+      "logo": {
+        "primary": {
+          "$type": "color",
+          "$value": "#0F3225"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#286548"
+        }
+      },
+      "top": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.50}"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#001714"
+        }
+      }
+    },
+    "typography": {
+      "default": {
+        "$type": "color",
+        "$value": "#232528"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#01463C",
+        "$description": "Test"
+      },
+      "inverted": {
+        "$type": "color",
+        "$value": "#F2F2F2"
+      }
+    }
+  },
+  "border-radius": {
+    "s": {
+      "$type": "borderRadius",
+      "$value": "16px"
+    }
+  }
+}

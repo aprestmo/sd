@@ -1,0 +1,82 @@
+{
+  "color": {
+    "brand-utility": {
+      "0": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#E8F1F9"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#D7E7F6"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#B4D1EB"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#86AAD4"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#5376AB"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#2C528A"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#142A77"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#051B67"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#021146"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#000B32"
+      }
+    },
+    "header": {
+      "logo": {
+        "primary": {
+          "$type": "color",
+          "$value": "#051B67"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#051B67"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#051B67"
+        }
+      },
+      "top": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.0}",
+          "$description": "Background color for header"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{color.neutral.900}",
+          "$description": "Foreground for Header"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#e4e5ea"
+        }
+      }
+    }
+  }
+}

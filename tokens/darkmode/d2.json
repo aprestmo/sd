@@ -1,0 +1,18 @@
+{
+  "color": {
+    "page": {
+      "bg": {
+        "$type": "color",
+        "$value": "#1a1b1d"
+      },
+      "inverted-bg": {
+        "$type": "color",
+        "$value": "#4E535A"
+      },
+      "divider": {
+        "$type": "color",
+        "$value": "#333B48"
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "color": {
+    "brand-utility": {
+      "0": {
+        "$type": "color",
+        "$value": "#F7F8FA"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#E8ECF2"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#CDD5E2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#A9B8D2"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#8A9CBB"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#5B729B"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#47608E"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#324976"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#1B315B"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#0D224A"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#020819"
+      }
+    },
+    "link": {
+      "default": {
+        "$type": "color",
+        "$value": "#b5d0ff"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#1C5BC1"
+      },
+      "active": {
+        "$type": "color",
+        "$value": "#245ebd"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#a5abb3"
+      }
+    },
+    "header": {
+      "top": {
+        "bg": {
+          "$type": "color",
+          "$value": "#1A1F27"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#F2F2F2"
+        }
+      }
+    },
+    "teaser": {
+      "brand": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.700}"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{color.typography.default}"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#7588ad"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#edfeb2"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#28374C"
+        }
+      },
+      "inverted": {
+        "bg": {
+          "$type": "color",
+          "$value": "#252533"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{color.typography.default}"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#969ba4"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#edfeb2"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#353C46"
+        }
+      },
+      "highlight": {
+        "bg": {
+          "$type": "color",
+          "$value": "#252533"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{color.typography.default}"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#969ba4"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#edfeb2"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#D3DEAD"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "color": {
+    "header": {
+      "top": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.0}"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#232528"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#dbdbdb"
+        }
+      },
+      "logo": {
+        "primary": {
+          "$type": "color",
+          "$value": "#0F2B8B"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#fff"
+        }
+      }
+    },
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "#0F2B8B"
+      },
+      "primary-fg": {
+        "$type": "color",
+        "$value": "#fff"
+      }
+    },
+    "teaser": {
+      "brand": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.700}"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#B5BBF3"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.0}"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#B5BBF3"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#515FEF"
+        }
+      },
+      "highlight": {
+        "bg": {
+          "$type": "color",
+          "$value": "#BA0C2F"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#EAB6C1"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#EAB6C1"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#D97E7E"
+        }
+      },
+      "inverted": {
+        "bg": {
+          "$type": "color",
+          "$value": "#0B032D"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#858095"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.0}"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#858095"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#544F6C"
+        }
+      }
+    },
+    "brand-utility": {
+      "0": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#EEF3FF"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#CDDEFF"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#A2C2FF"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#7CA1FF"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#5275F1"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#3658CF"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#203FAD"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#0F2B8B"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#01185F"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#000E3D"
+      }
+    },
+    "button": {
+      "primary": {
+        "hover": {
+          "bg": {
+            "$type": "color",
+            "$value": "{color.brand-utility.600}"
+          },
+          "fg": {
+            "$type": "color",
+            "$value": "{color.brand.primary-fg}"
+          },
+          "border": {
+            "$type": "color",
+            "$value": "{color.brand-utility.600}"
+          }
+        }
+      },
+      "secondary": {
+        "hover": {
+          "bg": {
+            "$type": "color",
+            "$value": "{color.brand-utility.50}"
+          },
+          "fg": {
+            "$type": "color",
+            "$value": "{color.brand-utility.800}"
+          },
+          "border": {
+            "$type": "color",
+            "$value": "{color.brand-utility.300}"
+          }
+        }
+      },
+      "secondary-inverted": {
+        "default": {
+          "border": {
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.5)"
+          }
+        }
+      }
+    }
+  }
+}

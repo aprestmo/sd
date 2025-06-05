@@ -1,0 +1,86 @@
+{
+  "color": {
+    "brand-utility": {
+      "0": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#E5F2EE"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#C8E2DC"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#9BC2B9"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#5F8E88"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#4E7976"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#3A6564"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#2D5958"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#193F3E"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#0F3231"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#002423"
+      }
+    },
+    "header": {
+      "logo": {
+        "primary": {
+          "$type": "color",
+          "$value": "#F2F2F2"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#F2F2F2"
+        }
+      },
+      "top": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.brand-utility.900}"
+        }
+      }
+    },
+    "link": {
+      "default": {
+        "$type": "color",
+        "$value": "#8EFFBB"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#C9DBC2"
+      },
+      "active": {
+        "$type": "color",
+        "$value": "#C9DBC2"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#B4C7AD"
+      }
+    }
+  }
+}

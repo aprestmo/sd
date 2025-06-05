@@ -1,0 +1,72 @@
+{
+  "color": {
+    "teaser": {
+      "brand": {
+        "bg": {
+          "$type": "color",
+          "$value": "#00095B"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#B2B5CE"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#B2B5CC"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#666B9A"
+        }
+      },
+      "highlight": {
+        "bg": {
+          "$type": "color",
+          "$value": "#691616"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#D2B9B9"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#D1B9B9"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#B38A8A"
+        }
+      },
+      "inverted": {
+        "bg": {
+          "$type": "color",
+          "$value": "#0B032D"
+        },
+        "subtle-fg": {
+          "$type": "color",
+          "$value": "#B6B3C0"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "highlight-fg": {
+          "$type": "color",
+          "$value": "#B6B3BF"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#858195"
+        }
+      }
+    }
+  }
+}

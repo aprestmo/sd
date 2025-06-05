@@ -1,0 +1,31 @@
+{
+  "tokenSetOrder": [
+    "theme/dn",
+    "theme/global",
+    "theme/scandinavian",
+    "brand/d2",
+    "brand/dnhelg",
+    "brand/upstream",
+    "brand/recharge",
+    "brand/tradewinds",
+    "brand/europower",
+    "brand/fiskeribladet",
+    "brand/hydrogen",
+    "brand/kystens",
+    "brand/intrafish",
+    "brand/intrafishglobal",
+    "darkmode/core",
+    "darkmode/dn",
+    "darkmode/upstream",
+    "darkmode/d2",
+    "darkmode/dnhelg",
+    "darkmode/recharge",
+    "darkmode/hydrogen",
+    "darkmode/intrafish",
+    "darkmode/intrafishglobal",
+    "darkmode/tradewinds",
+    "darkmode/kystens",
+    "darkmode/fiskeribladet",
+    "darkmode/europower"
+  ]
+}

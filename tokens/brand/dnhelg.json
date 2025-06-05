@@ -1,0 +1,106 @@
+{
+  "color": {
+    "footer": {
+      "bg": {
+        "$type": "color",
+        "$value": "{color.neutral.0}"
+      },
+      "bg-copyright": {
+        "$type": "color",
+        "$value": "{color.neutral.100}"
+      },
+      "fg": {
+        "$type": "color",
+        "$value": "{color.neutral.900}"
+      },
+      "divider": {
+        "$type": "color",
+        "$value": "{color.neutral.200}"
+      },
+      "subtle-fg": {
+        "$type": "color",
+        "$value": "{color.neutral.300}"
+      }
+    },
+    "brand-utility": {
+      "0": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#f4f4f6"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#e4e5e7"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#d1d3d6"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#c1c3c8"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#a0a5ac"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#858b94"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#6b717a"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#53555f"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#363a3f"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#232528"
+      }
+    },
+    "link": {
+      "default": {
+        "$type": "color",
+        "$value": "#E62524"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#8e1818"
+      },
+      "active": {
+        "$type": "color",
+        "$value": "#e05353"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#bbc8dd"
+      }
+    },
+    "header": {
+      "top": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.neutral.0}"
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "#2d2d2d"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "#e4e5ea"
+        }
+      }
+    }
+  }
+}
