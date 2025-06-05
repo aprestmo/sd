@@ -1,0 +1,18 @@
+{
+  "name": "sd",
+  "version": "1.0.0",
+  "description": "This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npm run clean && node build-output.js",
+    "clean": "rm -rf build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.0",
+    "style-dictionary": "^5.0.0"
+  }
+}
